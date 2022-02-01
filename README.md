@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and embedded systems
 - 🌱 I’m currently learning inverse kinematics' application for CNC
 - 💞️ I’m looking to collaborate on research based on systems automation
-- 📫 Contact: Email: ask150079@gmail.com, Cell: +8801679050586
+- 📫 Contact: Email: Cell: +8801679050586, ask150079@gmail.com, [LinkedIn](https://www.linkedin.com/in/md-asifuzzaman-khan-6117a2147/), [Facebook](https://www.facebook.com/RANSOMWARE101/).
 
 <!---
 AsifKhan991/AsifKhan991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
