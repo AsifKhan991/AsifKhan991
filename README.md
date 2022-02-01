@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsifKhan991, currently an undergrad
+- 👋 Hi, I’m @AsifKhan991, currently an undergrad (EEE)
 - 👀 I’m interested in Robotics and embedded systems
 - 🌱 I’m currently learning inverse kinematics' application for CNC
 - 💞️ I’m looking to collaborate on research based on systems automation
