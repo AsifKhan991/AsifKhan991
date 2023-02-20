@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AsifKhan991, an EEE graduate.
 - Embedded systems and robotics are my major fileds of interest.
-- Currently investigating inverse kinematics' application for CNC.
-- Looking forward to collaborate in research related to intelligent systems.
+- Looking forward to collaborate in research related to intelligent automation systems.
 - Email: ask150079@gmail.com, WhatsApp:[+8801679050586](), [LinkedIn](https://www.linkedin.com/in/md-asifuzzaman-khan-6117a2147/).
 
 <!---
