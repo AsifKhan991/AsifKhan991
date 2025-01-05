@@ -1,6 +1,6 @@
 Hello sentient being 👋 <br>
 I'm Asif, a corporate engineer by day and a autodeduct robotics researcher by night. Hands-on design & debug being my "GoTo" method in technical exploration, I have expereince wokring with robotic manipulation, computer vision, visual servoing, real-time control & monitoring systems.
-- Looking forward to collaborating in research related to semi-sentient robots and systems.
+- Looking forward to collaborating in research in above mentioned areas.
 - Email: ask150079@gmail.com, WhatsApp:[+1 803 479 4354](), [LinkedIn](https://www.linkedin.com/in/md-asifuzzaman-khan-6117a2147/).
 
 
