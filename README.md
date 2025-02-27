@@ -1,5 +1,5 @@
-Expereinced in robotic manipulation, computer vision, visual servoing, real-time control & monitoring systems.
-- Looking forward to collaborating in research in above mentioned areas.
+Interests: robotic manipulation, computer vision, visual servoing, real-time embedded systems.
+- Looking forward to collaborating in related projects.
 - Email: ask150079@gmail.com, WhatsApp:[+1 803 479 4354](), [LinkedIn](https://www.linkedin.com/in/md-asifuzzaman-khan-6117a2147/).
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AsifKhan991&show_icons=true&theme=dark&hide=contribs&custom_title=My&nbsp;GitHub&nbsp;stats) 
